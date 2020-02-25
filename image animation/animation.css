@@ -1,0 +1,11 @@
+.animation {
+    width: 310px;
+    height: 310px;
+    margin: 2% auto;
+    background: url('./moon-phases.png');
+    animation: play 1.8s steps(8) infinite;
+}
+
+@keyframes play {
+    100% {background-position: -2480px; }
+}
