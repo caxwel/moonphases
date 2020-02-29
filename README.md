@@ -18,4 +18,4 @@ Pure CSS pixel art of each phase of the moon and an animation of all of the phas
 * .html page displaying fun and scientific animation
 
 ## Author
-☾　**Max Turer** - [caxwel][https://github.com/caxwel]
+☾　**Max Turer** - [caxwel](https://github.com/caxwel)
